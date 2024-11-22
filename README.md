@@ -1,4 +1,4 @@
-Перше ніж запускати імпортуйте БД із файлу MedHelperDb.bak
+Перше ніж запускати імпортуйте БД із файлу MedHelperDb.bak, MedHelperDb.bacpac
 
 Основна структура проєкту: 
 MedHelper:
